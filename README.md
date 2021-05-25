@@ -1,4 +1,4 @@
-<h1 align="center"> Módulo de NodeJS - nível 2 </h1>
+<h1 align="center"> Módulo de React - nível 3 </h1>
  &nbsp;
 
 <h3 align="center">🔍 Navegue por dentro do Readme </h3>
